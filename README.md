@@ -49,7 +49,7 @@ The dashboard was designed following best practices to ensure clarity and engage
 
 ## 📦 Submission Files
 * `Car_Prices_Visual_Report.png` (The high-resolution Dashboard screenshot)
-* `CarPrices_Final.twbx` (The Tableau Packaged Workbook)
+* `CarPrices_Final_Analysis` (The Tableau Public Link)
 * `README.md` (This file)
 
 ---
