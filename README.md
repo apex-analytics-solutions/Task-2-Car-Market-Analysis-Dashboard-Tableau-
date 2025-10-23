@@ -8,7 +8,7 @@ This project fulfills **Task 2: Data Visualization and Storytelling** requiremen
 ## 🔗 Live Dashboard Link
 You can view the **interactive version** of this dashboard directly on Tableau Public:
 
-**[[TABLEAU PUBLIC LINK HERE](https://public.tableau.com/app/profile/anees.ur.rehman4765/viz/Task2CarMarketAnalysisDashboardTableau/Dashboard1)]**
+**[[TABLEAU PUBLIC LINK HERE](https://public.tableau.com/app/profile/anees.ur.rehman4765/viz/Task2CarMarketAnalysisDashboardTableau_17612338424130/Dashboard1)]**
 
 
 ---
