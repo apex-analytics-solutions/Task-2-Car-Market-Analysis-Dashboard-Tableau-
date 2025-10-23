@@ -8,9 +8,16 @@ This project fulfills **Task 2: Data Visualization and Storytelling** requiremen
 ## 🔗 Live Dashboard Link
 You can view the **interactive version** of this dashboard directly on Tableau Public:
 
-**[YOUR TABLEAU PUBLIC LINK HERE]**
+**[[TABLEAU PUBLIC LINK HERE](https://public.tableau.com/app/profile/anees.ur.rehman4765/viz/Task2CarMarketAnalysisDashboardTableau/Dashboard1)]**
+
 
 ---
+<img src="https://github.com/apex-analytics-solutions/Task-2-Car-Market-Analysis-Dashboard-Tableau-/blob/main/Task%202%20Car%20Market%20Analysis%20Dashboard%20(Tableau).png" alt="">
+
+---
+
+
+
 
 ## 🔑 Key Business Insights (The Data Story)
 The analysis yielded three core insights crucial for strategic decision-making in the used car market:
