@@ -33,8 +33,8 @@ The analysis yielded three core insights crucial for strategic decision-making i
 * **Actionable Takeaway:** Sales strategies and inventory targeting must be tailored differently for the high-end, high-margin luxury segment versus the volume-driven mass market.
 
 ### 3. Sales Volume and Price Trend Over Time
-* **Finding:** [Please write your final observation here after checking the **synchronized** lines on Sheet 3. Example: **"Sales volume (Count) shows a rapid increase over the period, peaking in early 2015, while Average Selling Price remained relatively stable."**]
-* **Actionable Takeaway:** [Write your final recommendation here based on the finding above. Example: **"Investigate competition or supply chain factors that kept prices flat despite rising demand."**]
+* **Finding:** **Sales volume peaked significantly in January 2015, rising abruptly to approximately $\mathbf{160K}$ units. Critically, the average price also spiked during this peak.**
+* **Actionable Takeaway:** **This indicates a period of high, elastic demand that supported premium pricing, not just volume discounting. Strategic inventory stocking should leverage this strong seasonality in Q1.**
 
 ---
 
